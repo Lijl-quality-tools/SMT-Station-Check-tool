@@ -1,0 +1,56 @@
+{
+    "inspectors": [
+        "张三"
+    ],
+    "admin_password": "admin",
+    "mappings": {
+        "BOM_PN": [
+            "编号"
+        ],
+        "BOM_REF": [
+            "位置号1",
+            "位置号2"
+        ],
+        "BOM_DESC": [
+            "物料描述"
+        ],
+        "BOM_SUB": [
+            "替代状况"
+        ],
+        "ST_PN": [
+            "元件名"
+        ],
+        "ST_REF": [
+            "图样名"
+        ],
+        "ST_SLOT": [
+            "安装号码"
+        ],
+        "ST_DESC": [
+            "备注"
+        ],
+        "BOM_REF2": [
+            "位置号2",
+            "位号2",
+            "Ref2",
+            "Designator2",
+            "Pos2",
+            "B面位号"
+        ],
+        "ST_REF2": [
+            "位置号2",
+            "位号2",
+            "Ref2",
+            "Designator2",
+            "Pos2",
+            "B面位号"
+        ],
+        "ST_QTY": [
+            "总数",
+            "数量",
+            "Qty",
+            "Count",
+            "用量"
+        ]
+    }
+}
